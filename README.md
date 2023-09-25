@@ -27,7 +27,7 @@
 | 3 | 신경망 기초 <br>(4.1-4.3) | [PDF](https://github.com/sejongresearch/2023.AI/blob/main/LectureNotes/%5B%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC%5D%5B3%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%89%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A7%E1%86%BC%E1%84%86%E1%85%A1%E1%86%BC%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9.pdf) | 2023.09.21 | | | 
 | 4 | 신경망 기초 <br>(4.4-4.6) | [PDF](https://github.com/sejongresearch/2023.AI/blob/main/LectureNotes/%5B%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC%5D%5B3%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%89%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A7%E1%86%BC%E1%84%86%E1%85%A1%E1%86%BC%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9.pdf) | 2023.09.26 | [실습코드](https://www.kaggle.com/yukyungchoi/2023-ai-w3-p1/) | | 
 | 4 | 초청 강연 | 자율주행과 데이터엔진 | 2023.09.28 |  |  | 
-| 5 | 신경망 기초 <br>(4.7-4.10) | [PDF](https://github.com/sejongresearch/2023.AI/blob/main/LectureNotes/%5B%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC%5D%5B3%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%89%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A7%E1%86%BC%E1%84%86%E1%85%A1%E1%86%BC%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9.pdf) | 2023.10.05 |  | 동영상+실습 | 
+| 5 | 신경망 기초 <br>(4.7-4.10) | [PDF](https://github.com/sejongresearch/2023.AI/blob/main/LectureNotes/%5B%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC%5D%5B3%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%89%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A7%E1%86%BC%E1%84%86%E1%85%A1%E1%86%BC%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9.pdf) | 2023.10.03 <br> 2023.10.05 |  | 동영상+실습 | 
 
 
 ## 참고자료
