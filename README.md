@@ -29,10 +29,11 @@
 | 5 | 외부강연 | | 2023.10.05 |  | 감상문 제출 <br> 10/11 | [링크](https://youtu.be/QiZ6GhXKRbI)  | 
 | 6 | 신경망 기초 <br>(4.6-4.8) |[PDF](https://github.com/sejongresearch/2023.AI/blob/main/LectureNotes/%5B%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC%5D%5B3%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%89%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A7%E1%86%BC%E1%84%86%E1%85%A1%E1%86%BC%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9.pdf) | 2023.10.12 | [실습코드](https://www.kaggle.com/yukyungchoi/2023-ai-w3-p1/) <br> [실습코드](https://www.kaggle.com/yukyungchoi/2023-ai-w3-p2/) <br> [실습코드](https://www.kaggle.com/yukyungchoi/2023-ai-w3-p3/) <br> [실습코드](https://www.kaggle.com/yukyungchoi/2023-ai-w3-p4/) |  |   | 
 | 7 | 신경망 기초 <br>(4.9-4.10) |[PDF](https://github.com/sejongresearch/2023.AI/blob/main/LectureNotes/%5B%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC%5D%5B3%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%89%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A7%E1%86%BC%E1%84%86%E1%85%A1%E1%86%BC%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9.pdf) | 2023.10.17 | |   [캐글](https://www.kaggle.com/competitions/2023-2aiw7p1-mnist) <br> 10/23 | |
-| 7 | 딥러닝과 파이토치 <br> (5.1-5.4)|  | 2023.10.19 |  | |  | 
+| 7 | 신경망 기초 실습 |  | 2023.10.19 |  | |  | 
 | 8 | 중간고사 |  | 2023.10.24 |  | |  | 
-| 8 | 딥러닝과 파이토치 <br> (5.5-5.7) |  | 2023.10.26 |  | |  | 
-| 9 | 딥러닝과 파이토치 <br> (5.8-5.10) |  | 2023.10.31 |  | |  | 
+| 9 | 딥러닝과 파이토치 <br> (5.1-5.4)|  | 2023.10.19 |  | |  | 
+| 9 | 딥러닝과 파이토치 <br> (5.5-5.7) |  | 2023.10.26 |  | |  | 
+| 10 | 딥러닝과 파이토치 <br> (5.8-5.10) |  | 2023.10.31 |  | |  | 
 
 
 
