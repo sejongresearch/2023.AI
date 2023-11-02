@@ -32,7 +32,7 @@
 | 7 | 신경망 기초 <br> (실습) |  | 2023.10.19 | [문제2](https://www.kaggle.com/t/92738fa4526542b6922bfabca5dcbdc2) <br> [문제3](https://www.kaggle.com/t/99724f475f684583bc8613b8e83bb639) <br> [문제4](https://www.kaggle.com/t/67879f808ccf4e47a5039f31514b23ac) <br> [문제5](https://www.kaggle.com/t/b95184e5466945fd9e2d12cfbf667298)  |  |  | 
 | 8 | 중간고사 |  | 2023.10.24 |  | |  | 
 | 9 | 딥러닝과 파이토치 <br> (5.1-5.2)| [PDF](https://github.com/sejongresearch/2023.AI/blob/main/LectureNotes/%5B%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC%5D%5B5%E1%84%8C%E1%85%A1%E1%86%BC%5D%20%E1%84%83%E1%85%B5%E1%86%B8%E1%84%85%E1%85%A5%E1%84%82%E1%85%B5%E1%86%BC%E1%84%80%E1%85%AA%20%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A9%E1%84%8E%E1%85%B5.pdf) | 2023.10.31 | [실습코드](https://www.kaggle.com/code/limguentaek/chapter-05-pytorch) <br> [클래스](https://wikidocs.net/28) | | [클래스](https://www.youtube.com/watch?v=8SaxeSD6M0M) | 
-| 9 | 딥러닝과 파이토치 <br> (5.3-5.4) |  | 2023.11.02 |  | | [캐글 제출](https://www.kaggle.com/t/87761afaec584ab4b8b72f13e70b0030) <br> 11/08 | 
+| 9 | 딥러닝과 파이토치 <br> (5.3-5.4) |  | 2023.11.02 | [리더보드](https://www.kaggle.com/t/87761afaec584ab4b8b72f13e70b0030) | 캐글 제출 <br> 11/08 | |
 | 10 | 딥러닝과 파이토치 <br> (5.5-5.7) |  | 2023.11.07 |  | |  | 
 | 10 | 딥러닝과 파이토치 <br> (5.8-5.10) |  | 2023.11.09 |  | |  | 
 
