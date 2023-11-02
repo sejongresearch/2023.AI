@@ -31,9 +31,10 @@
 | 7 | 신경망 기초 <br>(4.9-4.10) |[PDF](https://github.com/sejongresearch/2023.AI/blob/main/LectureNotes/%5B%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC%5D%5B3%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%89%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A7%E1%86%BC%E1%84%86%E1%85%A1%E1%86%BC%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9.pdf) | 2023.10.17 | [리더보드](https://www.kaggle.com/t/9dfa40633ebe4755b1e51eb414720686) <br> [캐글 사용법](https://github.com/sejongresearch/2023.AI/blob/main/LectureNotes/%5B%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%5D%5B7%EC%A3%BC%EC%B0%A8%5D%20%EC%BA%90%EA%B8%80%EC%82%AC%EC%9A%A9%EB%B2%95.pdf) <br> [넘파이](https://www.youtube.com/watch?v=xEXzE0oWFvw&feature=youtu.be) <br> [판다스](https://www.youtube.com/watch?v=sFJyzPD4rw0&feature=youtu.be) |  캐글 제출 <br> 10/23 | |
 | 7 | 신경망 기초 <br> (실습) |  | 2023.10.19 | [문제2](https://www.kaggle.com/t/92738fa4526542b6922bfabca5dcbdc2) <br> [문제3](https://www.kaggle.com/t/99724f475f684583bc8613b8e83bb639) <br> [문제4](https://www.kaggle.com/t/67879f808ccf4e47a5039f31514b23ac) <br> [문제5](https://www.kaggle.com/t/b95184e5466945fd9e2d12cfbf667298)  |  |  | 
 | 8 | 중간고사 |  | 2023.10.24 |  | |  | 
-| 9 | 딥러닝과 파이토치 <br> (5.1-5.4)| [PDF](https://github.com/sejongresearch/2023.AI/blob/main/LectureNotes/%5B%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC%5D%5B5%E1%84%8C%E1%85%A1%E1%86%BC%5D%20%E1%84%83%E1%85%B5%E1%86%B8%E1%84%85%E1%85%A5%E1%84%82%E1%85%B5%E1%86%BC%E1%84%80%E1%85%AA%20%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A9%E1%84%8E%E1%85%B5.pdf) | 2023.10.31 | [실습코드](https://www.kaggle.com/code/limguentaek/chapter-05-pytorch) <br> [클래스](https://wikidocs.net/28) | | [클래스](https://www.youtube.com/watch?v=8SaxeSD6M0M) | 
-| 9 | 딥러닝과 파이토치 <br> (5.5-5.7) |  | 2023.11.02 |  | |  | 
-| 10 | 딥러닝과 파이토치 <br> (5.8-5.10) |  | 2023.11.07 |  | |  | 
+| 9 | 딥러닝과 파이토치 <br> (5.1-5.2)| [PDF](https://github.com/sejongresearch/2023.AI/blob/main/LectureNotes/%5B%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC%5D%5B5%E1%84%8C%E1%85%A1%E1%86%BC%5D%20%E1%84%83%E1%85%B5%E1%86%B8%E1%84%85%E1%85%A5%E1%84%82%E1%85%B5%E1%86%BC%E1%84%80%E1%85%AA%20%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A9%E1%84%8E%E1%85%B5.pdf) | 2023.10.31 | [실습코드](https://www.kaggle.com/code/limguentaek/chapter-05-pytorch) <br> [클래스](https://wikidocs.net/28) | | [클래스](https://www.youtube.com/watch?v=8SaxeSD6M0M) | 
+| 9 | 딥러닝과 파이토치 <br> (5.3-5.4) |  | 2023.11.02 |  | | [캐글 제출](https://www.kaggle.com/t/87761afaec584ab4b8b72f13e70b0030) <br> 11/08 | 
+| 10 | 딥러닝과 파이토치 <br> (5.5-5.7) |  | 2023.11.07 |  | |  | 
+| 10 | 딥러닝과 파이토치 <br> (5.8-5.10) |  | 2023.11.09 |  | |  | 
 
 
 
