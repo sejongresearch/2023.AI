@@ -33,7 +33,7 @@
 | 8 | 중간고사 |  | 2023.10.24 |  | |  | 
 | 9 | 딥러닝과 파이토치 <br> (5.1-5.2)|  | 2023.10.31 | [실습코드](https://www.kaggle.com/code/limguentaek/chapter-05-pytorch) <br> [클래스](https://wikidocs.net/28) | | [클래스](https://www.youtube.com/watch?v=8SaxeSD6M0M) | 
 | 9 | 딥러닝과 파이토치 <br> (5.3-5.4) |  | 2023.11.02 | [리더보드](https://www.kaggle.com/t/87761afaec584ab4b8b72f13e70b0030) | 캐글 제출 <br> 11/08 | |
-| 10 | 딥러닝과 파이토치 <br> (5.5-5.7) | [PDF](https://github.com/sejongresearch/2023.AI/blob/main/LectureNotes/%5B%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC%5D%5B5%E1%84%8C%E1%85%A1%E1%86%BC%5D%20%E1%84%83%E1%85%B5%E1%86%B8%E1%84%85%E1%85%A5%E1%84%82%E1%85%B5%E1%86%BC%E1%84%80%E1%85%AA%20%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A9%E1%84%8E%E1%85%B5.pdf) | 2023.11.07 | [리더보드](https://www.kaggle.com/competitions/2023-2aiw10p1-fashion-mnist) |  캐글 제출 <b> 11/13 |  | 
+| 10 | 딥러닝과 파이토치 <br> (5.5-5.7) | [PDF](https://github.com/sejongresearch/2023.AI/blob/main/LectureNotes/%5B%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC%5D%5B5%E1%84%8C%E1%85%A1%E1%86%BC%5D%20%E1%84%83%E1%85%B5%E1%86%B8%E1%84%85%E1%85%A5%E1%84%82%E1%85%B5%E1%86%BC%E1%84%80%E1%85%AA%20%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A9%E1%84%8E%E1%85%B5.pdf) | 2023.11.07 | [리더보드](https://www.kaggle.com/competitions/2023-2aiw10p1-fashion-mnist) |  캐글 제출 <br> 11/13 |  | 
 | 10 | 딥러닝과 파이토치 <br> (5.8-5.10) |  | 2023.11.09 |  | |  | 
 
 
